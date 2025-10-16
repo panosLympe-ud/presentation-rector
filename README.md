@@ -4,7 +4,7 @@
 Rector is an automated **refactoring tool for PHP**.  
 It analyzes your code, detects outdated syntax or deprecated functions, and upgrades it to modern PHP automatically.
 
-This repository contains **9 examples**, starting from simple syntax updates and moving to more advanced refactoring scenarios.
+This repository contains **10 examples**, starting from simple syntax updates and moving to more advanced refactoring scenarios.
 
 ---
 
