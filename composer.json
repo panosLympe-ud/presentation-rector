@@ -1,0 +1,18 @@
+{
+    "name": "panoslympe-ud/presentation-rector",
+    "description": "Demo project for Rector PHP presentation",
+    "autoload": {
+        "psr-4": {
+            "PresentationRector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "panosLympe-ud",
+            "email": "Pan.Lymperopoulos@ppcgroup.com"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^2.2"
+    }
+}
